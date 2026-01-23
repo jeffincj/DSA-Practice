@@ -5,3 +5,4 @@ class solution:
     return False
   return str(x) == str(x)[::-1] #this ia magic suntax used to reverse the number
   
+
