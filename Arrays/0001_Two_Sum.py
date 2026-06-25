@@ -27,3 +27,4 @@ class Solution(object):
             if n in seen:
                 return seen[n],i
             seen[num]=i
+
